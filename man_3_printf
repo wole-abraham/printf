@@ -4,7 +4,7 @@
 - custom printf function for printing on standard output
 .SH SYNOPSIS
 .PP
-.B #include "holberton.h"
+.B #include "main.h"
 .PP
 .B int _printf(const char *format, ...);
 .SH DESCRIPTION
@@ -46,4 +46,4 @@ The given integer is converted into octal notation and printed out.
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-Corbin Coleman & Swati Gupta
+wole-abraham
